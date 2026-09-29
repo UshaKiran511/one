@@ -999,6 +999,7 @@
                 min-width: 56px;
                 padding: 8px 12px;
             }
+//adding some changes
             .timer-box .num {
                 font-size: 20px;
             }
